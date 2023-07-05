@@ -1,7 +1,7 @@
-# Secrets a basic site where users can register and submit an annonymous secret. Using node.js and MongoDB.
+# Secrets a basic site where users can register and submit an anonymous secret. Using node.js and MongoDB.
 
 Practicing Authentication.
-Each branch has a different type.
+Each branch has a used different method.
 
 This branch is basic.
 Added mongoose-encrypt npm package
