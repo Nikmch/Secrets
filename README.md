@@ -1,4 +1,5 @@
-# Secrets
+# Secrets a basic site where users can register and submit an annonymous secret. Using node.js and MongoDB.
+
 Practicing Authentication.
 Each branch has a different type.
 
